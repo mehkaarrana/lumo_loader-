@@ -1,10 +1,22 @@
+## 1.0.1
 
----
+### Improvements
 
-## CHANGELOG.md
+- Improved README documentation
+- Added usage examples
+- Added customization guide
+- Added roadmap
+- Updated package description
 
-```md
-## 1.0.0
+## 1.0.1
 
-- Initial Release
-- Circle Loader Added
+- Initial release
+- Circle Loader
+- Bar Loader
+- Cube Loader
+- Dots Loader
+- Orbit Loader
+- Pulse Loader
+- Ring Loader
+- Spinner Loader
+- Wave Loader

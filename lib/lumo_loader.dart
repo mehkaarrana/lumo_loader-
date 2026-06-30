@@ -1,9 +1,9 @@
 
 import 'package:flutter/material.dart';
-import 'package:lumo_loader/src/loaders/pulse_loader.dart';
-import 'package:lumo_loader/src/loaders/ring_loader.dart';
-import 'package:lumo_loader/src/loaders/spinner_loader.dart';
-import 'package:lumo_loader/src/loaders/wave_loader.dart';
+import 'src/loaders/pulse_loader.dart';
+import 'src/loaders/ring_loader.dart';
+import 'src/loaders/spinner_loader.dart';
+import 'src/loaders/wave_loader.dart';
 
 import 'src/loaders/circle_loader.dart';
 import 'src/loaders/bar_loader.dart';
@@ -16,6 +16,10 @@ export 'src/loaders/bar_loader.dart';
 export 'src/loaders/cube_loader.dart';
 export 'src/loaders/dots_loader.dart';
 export 'src/loaders/orbit_loader.dart';
+export 'src/loaders/pulse_loader.dart';
+export 'src/loaders/ring_loader.dart';
+export 'src/loaders/spinner_loader.dart';
+export 'src/loaders/wave_loader.dart';
 
 class LumoLoader {
   const LumoLoader._();

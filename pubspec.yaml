@@ -1,7 +1,6 @@
 name: lumo_loader
-description: A beautiful and highly customizable Flutter loading animation package with smooth, modern, and lightweight loaders.
-
-version: 1.0.0
+description: Beautiful, modern, and highly customizable Flutter loading animations with smooth and lightweight performance.
+version: 1.0.1
 
 homepage: https://github.com/mehkaarrana/lumo_loader
 repository: https://github.com/mehkaarrana/lumo_loader
