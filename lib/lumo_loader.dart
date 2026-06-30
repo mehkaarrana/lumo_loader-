@@ -1,4 +1,3 @@
-library lumo_loader;
 
 import 'package:flutter/material.dart';
 import 'package:lumo_loader/src/loaders/pulse_loader.dart';
